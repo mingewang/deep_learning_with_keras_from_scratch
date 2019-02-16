@@ -1,2 +1,8 @@
-# pragmatic_deep_learning_for_dummies
-example source code for book "pragmatic deep learning for dummies"
+# Pragmatic deep learning for dummies
+
+This repo contains sample source code for this book.
+
+You can buy this book at:
+
+https://www.amazon.com/dp/1796530867
+
