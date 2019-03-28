@@ -1,4 +1,4 @@
-# Pragmatic deep learning for dummies
+# Deep learning with Keras from Scratch
 
 This repo contains sample source code for this book.
 
